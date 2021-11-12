@@ -10,6 +10,7 @@ try {
         console.log(JSON.stringify(response.ok));
     }
 } catch (error) {
+    // catch error and send proper response
     console.log(JSON.stringify(error));
 }
 
