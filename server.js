@@ -11,6 +11,7 @@ try {
         console.log(JSON.stringify(response.ok));
     }
 } catch (error) {
+    // again checks
     console.log(JSON.stringify(error));
 }
 
