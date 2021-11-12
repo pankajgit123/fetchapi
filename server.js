@@ -7,9 +7,11 @@ try {
         console.log(data);
     } else {
         // response.ok = false
+        // please recheck
         console.log(JSON.stringify(response.ok));
     }
 } catch (error) {
+    // again checks
     // catch error and send proper response
     console.log(JSON.stringify(error));
 }
