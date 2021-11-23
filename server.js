@@ -1,5 +1,4 @@
 import fetch from 'node-fetch';
-import fs from fs;
 
 try {
     const response = await fetch('https://jsonplaceholder1.typicode.com/users/1');
