@@ -9,10 +9,16 @@ try {
     if (response && response.ok) {
         const data = await response.json();
         console.log(data);
+    } else {
+        // response.ok = false
+        // please recheck
+        console.log(JSON.stringify(response.ok));
     }
     const res = await getJokes();
     console.log(res);
 } catch (error) {
+    // again checks
+    // catch error and send proper response
     console.log(JSON.stringify(error));
 }
 
