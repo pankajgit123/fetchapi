@@ -1,5 +1,6 @@
 import fetch from 'node-fetch';
 import config from './config.js';
+import async from 'async';
 
 console.log(`Your environment is ${JSON.stringify(config.env)}`); // dev
 
