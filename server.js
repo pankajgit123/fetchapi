@@ -11,7 +11,7 @@ try {
         const data = await response.json();
         console.log(data);
     } else {
-        // response.ok = false
+        response.ok = false
         // please recheck
         console.log(JSON.stringify(response.ok));
     }
