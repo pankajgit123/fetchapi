@@ -8,8 +8,6 @@ git add .
 git commit -m "comment here"
 git push
 
-adding garbage which needs to revert back
-
 If you are on another branch and you made changes on it and then realize you don't have to make changes on that branch but new
 then stash your change and execute below steps.
 
