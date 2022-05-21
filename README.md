@@ -4,7 +4,7 @@
 
 ** Git Commands **
 
-added PR template
+added PR template #
 
 git add .
 git commit -m "comment here"
