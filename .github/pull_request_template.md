@@ -9,10 +9,10 @@
 - any additional info or context
 
 # Checklist
-[] Build
-[] Unit testcases
-[] e2e testcases
-[] ReadMe Update
+- [] Build
+- [] Unit testcases
+- [] e2e testcases
+- [] ReadMe Update
 
 
 
