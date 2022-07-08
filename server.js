@@ -13,6 +13,7 @@ try {
 } catch (error) {
     // again checks
     // catch error and send proper response
+    // try
     console.log(JSON.stringify(error));
 }
 
