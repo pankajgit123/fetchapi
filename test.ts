@@ -9,3 +9,5 @@ const l = last([1, 2, 3, 4]);
 const l1 = last(["1", "2", "3", "4"]);
 
 /// comment 1
+
+/// comment 2
