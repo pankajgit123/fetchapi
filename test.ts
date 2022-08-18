@@ -11,5 +11,3 @@ const l1 = last(["1", "2", "3", "4"]);
 /// comment 1
 
 /// comment 2
-
-/// comment 3
